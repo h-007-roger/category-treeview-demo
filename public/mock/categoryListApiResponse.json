@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "furniture",
+            "subCategory": [
+                {
+                    "sub_cat_id": 1,
+                    "sub_cate_name": "Sofa"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "electronics",
+            "subCategory": [
+                {
+                    "sub_cat_id": 2,
+                    "sub_cate_name": "Mobile"
+                },
+                {
+                    "sub_cat_id": 3,
+                    "sub_cate_name": "Charger"
+                }
+            ]
+        }
+    ],
+    "errors": {},
+    "meta": {
+        "api_version": "1"
+    }
+}
